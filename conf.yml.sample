@@ -1,0 +1,4 @@
+testnet: true
+Electron:
+  Host: your-electrumx-host
+  Port: your-electrumx-port

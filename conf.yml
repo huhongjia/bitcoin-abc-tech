@@ -1,0 +1,4 @@
+testnet: true
+Electron:
+  Host: 13.229.155.155
+  Port: 9629
